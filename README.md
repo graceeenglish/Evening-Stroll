@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project, Evening Stroll, is a code prototype created for my Working with Data and Code class. Evening Stroll is an ASCII converter that transforms any video into a text-based art animation, turning each frame into a sequence of ASCII characters.
 	
 ## Technologies
 Project is created with:

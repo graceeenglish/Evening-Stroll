@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies and Requirements](#technologies-and-requirements)
 * [Features](#features)
+* [Example](#example)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Room for Improvement](#room-for-improvement)
@@ -32,6 +33,9 @@ Evening Stroll is created with:
 * Real-Time Preview
   * Lets users see the ASCII animation as it’s being processed.
 
+## Example
+<img width="556" height="292" alt="Screenshot 2025-11-03 at 11 27 55 pm" src="https://github.com/user-attachments/assets/3495688a-3ae1-4204-9569-6f0f011d1f3b" />
+<img width="563" height="287" alt="Screenshot 2025-11-03 at 11 27 44 pm" src="https://github.com/user-attachments/assets/a54608a6-0065-4089-b840-554aa77a0b76" />
 
 ## Setup
 Evening Stroll Set Up 
